@@ -33,7 +33,7 @@ import javax.swing.table.DefaultTableModel;
  */
 public class AdminBDListaNegra {
     ConexionBD conectarBD = new ConexionBD("org.postgresql.Driver", "jdbc:postgresql",
-            "localhost:5432", "bdlistanegra", "postgres", "LiNuXiToS-M2");
+            "localhost:5432", "bdlistanegra", "postgres", "jsjsjjjsjsjsjsjsjsjsjsjsjsjjsjssssssssssssssssssssssssssssssssssssssssssssssssssssssss");
 
     public ConexionBD getConectarBD() {
         return conectarBD;
