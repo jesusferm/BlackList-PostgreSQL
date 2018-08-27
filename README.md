@@ -39,7 +39,7 @@ Este software se desarrolló bajo las siguientes características:
 - Versión de Java: 1.8.0_91
 - Versión de JDK: jdk-8u91-linux-x64
 - Versión de Netbeans: 8.1
-- Sistema Operativo: Fedora 23 x86_64
+- Sistema Operativo: Fedora 28 x86_64
 - Version PostgreSQL: 9.5.2
 
 # Capturas
