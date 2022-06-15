@@ -1,6 +1,5 @@
 create database bdlistanegra;
 -- manualmente seleccionar la base de datos creada, crear por partes, pgAdmin funciona diferente
--- a workbench de mysql.
 create table usuarios(
 	id SERIAL,
 	nick varchar(89),
